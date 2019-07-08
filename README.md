@@ -7,6 +7,15 @@ ___This workshop series is sponsored by [Iowa Social Science Research Center](ht
 This is a public repository with presentation slides for our Data Access workshops at the University of Iowa. Please star us if you think it is useful: 
 [![GitHub stars](https://img.shields.io/github/stars/iowa-social-science-research-center/Data-Access-Workshops.svg?style=social&logo=github&label=Stars)](https://github.com/iowa-social-science-research-center/Data-Access-Workshops)
 
+---
+
+### Topics:
+
+_Last updated 07-03-2019_
+
+- [Accessing Data Through ICPSR and CPRDC](https://github.com/iowa-social-science-research-center/Data-Access-Workshops/blob/master/2019-01-25%20ISRC%20Workshop%20Spring%202019.pdf)
+- [Survey Building with Qualtrics](https://github.com/iowa-social-science-research-center/Data-Access-Workshops/blob/master/2019-01-18%20ISRC%20Workshop%20Spring%202019%20-%20Qualtrics.pdf)
+
 
 ---
 
